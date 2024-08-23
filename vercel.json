@@ -1,8 +1,11 @@
 {
+  "redirects": [
+],
   "rewrites": [
-    {
+   {       "source": "/assets",       "destination": "https://apigenerate.com/features"     },{
       "source": "/(.*)",
       "destination": "https://apigenerate.com/$1"
  }
   ]
 }
+    
