@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://apigenerate.com/$1"
+ }
+  ]
+}
